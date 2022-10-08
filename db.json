@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "scsad",
+      "email": "vij ,po,poo",
+      "mobile": "vij ,po,poo",
+      "Address": "vij ,po,poo",
+      "Services": "vij ,po,poo"
+    },
+    {
+      "id": 2,
+      "name": "scsad",
+      "email": "vij ,po,poo",
+      "mobile": "vij ,po,poo",
+      "Address": "vij ,po,poo",
+      "Services": "vij ,po,poo"
+    },
+    {
+      "id": 3,
+      "name": "hello",
+      "email": "vij ,po,poo",
+      "mobile": "vij ,po,poo",
+      "Address": "vij ,po,poo",
+      "Services": "pooo"
+    }
+  ],
+  "signup": [
+    {
+      "name": "vijeesh",
+      "email": "vij@gmail.com",
+      "mobile": "1234567892",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "vijeesh",
+      "email": "vijeesh",
+      "mobile": "vijeesh",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
